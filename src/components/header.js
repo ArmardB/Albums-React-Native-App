@@ -30,7 +30,7 @@ const styles = {
         fontSize: 20,
         
     }
-}
+};
 
 // Make the component available to other parts of the app
 export default Header;
